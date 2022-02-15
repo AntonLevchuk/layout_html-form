@@ -1,16 +1,7 @@
-div {
-  margin-bottom: 10px;
+.div {
+  margin-top: 10px;
 }
 
-fieldset {
+.field {
   margin-bottom: 20px;
 }
-
-fieldset div:last-child {
-  margin-bottom: 0;
-  /* background-color: aqua; */
-}
-
-/* fieldset:nth-child(4) {
-  margin-bottom: 0;
-} */
